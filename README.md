@@ -1,5 +1,5 @@
 
-# Task App com React Native
+# Task Manager com React Native
 
 Consiste em um aplicativo para dispositivos móveis que faz o gerenciamento de tarefas. Adicionar, excluir e colocá-la como concluída são as funcionalidades.
 
